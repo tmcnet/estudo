@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FP01Functional",
+            "request": "launch",
+            "mainClass": "programming.FP01Functional",
+            "projectName": "functional-programming_c27b56d3"
+        },
+        {
+            "type": "java",
+            "name": "FP01Structured",
+            "request": "launch",
+            "mainClass": "programming.FP01Structured",
+            "projectName": "functional-programming_c27b56d3"
+        },
+        {
+            "type": "java",
+            "name": "FP02Functional",
+            "request": "launch",
+            "mainClass": "programming.FP02Functional",
+            "projectName": "functional-programming_c27b56d3"
+        },
+        {
+            "type": "java",
+            "name": "FP02StreamOperations",
+            "request": "launch",
+            "mainClass": "programming.FP02StreamOperations",
+            "projectName": "functional-programming_c27b56d3"
+        },
+        {
+            "type": "java",
+            "name": "FP02Structured",
+            "request": "launch",
+            "mainClass": "programming.FP02Structured",
+            "projectName": "functional-programming_c27b56d3"
+        },
+        {
+            "type": "java",
+            "name": "FP03FunctionalInterfaces",
+            "request": "launch",
+            "mainClass": "programming.FP03FunctionalInterfaces",
+            "projectName": "functional-programming_c27b56d3"
+        }
+    ]
+}
